@@ -1,0 +1,8 @@
+com\fitness\model\User.class
+com\fitness\dao\UserDAO.class
+com\fitness\model\Workout.class
+com\fitness\servlet\ProfileServlet.class
+com\fitness\servlet\WorkoutServlet.class
+com\fitness\util\DBConnection.class
+com\fitness\dao\WorkoutDAO.class
+com\fitness\servlet\AuthServlet.class
